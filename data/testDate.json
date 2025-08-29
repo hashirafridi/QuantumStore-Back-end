@@ -1,0 +1,20 @@
+// for user specs    Test in recommending games 
+
+{
+    "cpu": "Ryzen 5 5600X",
+    "gpu": "RX 6600 XT",
+    "ram": 16,
+    "storage": 512,
+    "os": "Windows 10"
+  },
+
+
+///// test data for not compatibile with this gameId "6804a242c6c8c0c6fec5a1cd" if you want compatible just test with above data
+  {
+    "cpu": "Intel i3 9100F",
+    "gpu": "GTX 750 Ti",
+    "ram": 8,
+    "storage": 512,
+    "os": "Windows 10"
+  }
+  
